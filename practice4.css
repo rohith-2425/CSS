@@ -1,0 +1,26 @@
+
+.contentbox{
+    height: 100px;
+    width: 100px;
+    border: SOLID black;
+    display: inline-block;
+}
+
+#navbar{
+    height: 60px;
+    background-color: #0f1111;  
+}
+a{
+    color: yellow;
+}
+button{
+    background-color: #f08804;
+}
+a{
+    margin-right: 0.25px;
+}
+footer{
+    background-color: #0f1111;  
+    color: aliceblue;
+    text-align: center;
+}
