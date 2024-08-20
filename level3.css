@@ -1,0 +1,10 @@
+#box1{
+    color: azure;
+    height: 100px;
+    width: 100px;
+    background-image:url(background.jpg);
+    background-size: contain;
+    position: fixed;
+    right: 0px;
+    top: 50px;
+}
